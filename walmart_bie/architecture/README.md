@@ -79,6 +79,7 @@ This document outlines the full architecture and step-by-step setup used to buil
   - Permissions:
     - `AmazonS3ReadOnlyAccess`
     - `AmazonRedshiftDataFullAccess`
+- Copy paste the Lambda Function code for the COPY statement
 
 ### ✅ Step 3: Setup Redshift Serverless
 - Workgroup: `walmart-bie-workgroup`
